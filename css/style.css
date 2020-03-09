@@ -1,0 +1,28 @@
+#top-header{
+	background: #f0f0f0;
+	font-size: 14px;
+	font-weight: 600;
+}
+#top-header i{
+	padding-right: 10px;
+}
+#header{
+	margin: 20px 0px;
+}
+.header-left{
+	font-size: 14px;
+	font-weight: 500;
+}
+.header-left i{
+	border-radius: 50%;
+	background: #f0f0f0;
+	padding: 14px;
+	font-size: 18px;
+}
+.header-center i{
+	font-size: 25px;
+}
+.nav-pills .nav-link{
+	border-radius: 0px;
+}
+
