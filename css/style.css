@@ -7,7 +7,7 @@
 	padding-right: 10px;
 }
 #header{
-	margin: 20px 0px;
+	margin: 30px 0px;
 }
 .header-left{
 	font-size: 14px;
@@ -20,9 +20,32 @@
 	font-size: 18px;
 }
 .header-center i{
-	font-size: 25px;
+	font-size: 30px;
+}
+.header-center h3{
+	font-weight: 700;
 }
 .nav-pills .nav-link{
 	border-radius: 0px;
 }
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    font-weight: 600;
+    padding: 1rem 1rem;
+    font-size: 14px;
+}
+#home{
+	padding: 200px 0px;
+	background-image: linear-gradient(to right, lightblue, lightgray);
+}
+#home h2{
+	font-weight: 700;
+	font-size: 40px;
+}
+.menu{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 119px;
 
+}
