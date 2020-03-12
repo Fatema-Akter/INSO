@@ -49,3 +49,55 @@
 	top: 119px;
 
 }
+.insu{
+	padding-top: 50px;
+	color: #000;
+	font-size: 15px;
+}
+.insu p{
+	font-weight: 600;
+	margin-bottom: 7px;
+	word-spacing: 2px;
+}
+.insu h3{
+	font-weight: 700;
+	margin-bottom: 24px;
+}
+.insu-image1{
+	width: 450px;
+}
+.insu-image1 img{
+	width: 100%;
+}
+.insu-image2{
+	width: 520px;
+}
+.insu-image2 img{
+	width: 100%;
+}
+.progress{
+	height: 7px;
+	border-radius: 0px;
+}
+.progress-bar{
+	height: 7px;
+	width: 96%;
+}
+.right-align{
+	float: right;
+}
+#insurance-services{
+	padding: 70px 0px;
+	background: #000;
+	color: #e2e6e8;
+	text-align: center;
+}
+.content i{
+	font-size: 45px;
+	margin-bottom: 10px;
+}
+.content:hover{
+	background-color: #fff;
+	color: #000;
+}
+
