@@ -100,4 +100,52 @@
 	background-color: #fff;
 	color: #000;
 }
-
+#pages{
+	padding: 70px 0px;
+}
+#pages .btn{
+	background-color: #fff;
+	font-size: 12px;
+	color: #6c757d;
+}
+#pages .card img{
+	width: 100%;
+}
+#pages .card-footer{
+	background-color: #879098;
+	padding: 20px;
+	border-radius: 0px;
+}
+#pages .card:hover .card-footer{
+	background-color: dodgerblue;
+	top: -40px;
+}
+#pages-client{
+	padding: 70px 0px;
+	background-color: #f0f4f7;
+}
+#pages-client i{
+	float: right;
+	color: lightblue;
+	font-size: 45px;
+}
+.client-image{
+	width: 120px;
+	height: 120px;
+}
+.client-image img{
+	width: 100%;
+}
+#pages-client .new-i i{
+	font-size: 15px;
+	float: left;
+	color: #ffd400;
+}
+#pages-client .new-i2 i{
+	font-size: 15px;
+	float: left;
+	background-color: #fff;
+}
+#pages-client .new-i2 i{
+	background-color: #fff;
+}
