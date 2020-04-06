@@ -149,3 +149,9 @@
 #pages-client .new-i2 i{
 	background-color: #fff;
 }
+.bg-whiteBlue{
+	background-color: #ecf1f5;
+}
+.border-bottom-1px{
+	border-bottom: 1px solid #ecf1f5;
+}
