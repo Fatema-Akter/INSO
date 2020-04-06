@@ -88,7 +88,6 @@
 }
 #insurance-services{
 	padding: 70px 0px;
-	background: #000;
 	color: #e2e6e8;
 	text-align: center;
 }
@@ -153,5 +152,18 @@
 	background-color: #ecf1f5;
 }
 .border-bottom-1px{
-	border-bottom: 1px solid #ecf1f5;
+	border-bottom: 1px solid #606b6852;
+}
+.border-bottom-1px-db{
+	border-bottom: 1px solid #9ca7a452;
+}
+.blue-black{
+	background-color: #0b2c40;
+}
+.text-lightGray{
+	color: lightgray;
+}
+.contact-i i{
+	font-size: 16px;
+	padding: 10px;
 }
